@@ -82,7 +82,7 @@
  {
       "key": "浪酷影视",
       "name": "浪酷｜APP",
-      "type": 1,
+      "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
