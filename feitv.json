@@ -1,0 +1,10 @@
+
+{ 
+    "urls": [
+        { "url": "clan://localhost/tvbox/V3m/V3m.json", "name": "鸟叔本地" },
+        { "url": "clan://localhost/tvboxxs/api.json", "name": "潇洒本地" },
+        { "url": "https://catbox.n13.club/jk/jsm.json", "name": "超级商店" },
+        { "url": "http://肥猫.live", "name": "肥猫" },
+        { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "家庭版" }
+    ]
+}
