@@ -5,6 +5,8 @@
         { "url": "clan://localhost/tvboxxs/api.json", "name": "潇洒本地" },
         { "url": "https://catbox.n13.club/jk/jsm.json", "name": "超级商店" },
         { "url": "http://肥猫.live", "name": "肥猫" },
-        { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "家庭版" }
+        { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "家庭版" },
+        { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "live" },
+        { "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json", "name": "天微影视" }
     ]
 }
