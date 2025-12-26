@@ -1,11 +1,11 @@
 
 { 
     "urls": [
-        { "url": "clan://localhost/tvbox/V3m/V3m.json", "name": "鸟叔本地" },
-        { "url": "clan://localhost/tvboxxs/api.json", "name": "潇洒本地" },
+        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxns/V3m.json", "name": "鸟叔本地" },
+        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxxs/api.json", "name": "潇洒本地" },
         { "url": "https://catbox.n13.club/jk/jsm.json", "name": "超级商店" },
         { "url": "http://肥猫.com", "name": "肥猫" },
-        { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "家庭版" },
+        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxjtb/api.json", "name": "家庭版" },
         { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "live" },
         { "url": "https://7337.kstore.vip/tw.json", "name": "天微影视" },
         {"name":"青龙1080","url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json"},
