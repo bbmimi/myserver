@@ -1,0 +1,1 @@
+clan://localhost/tvboxxs/api.json
