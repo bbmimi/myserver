@@ -1,10 +1,6 @@
 
 { 
     "urls": [
-        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxns/V3m.json", "name": "鸟叔本地" },
-        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxxs/api.json", "name": "潇洒本地" },
-        { "url": "https://catbox.n13.club/jk/jsm.json", "name": "超级商店" },
-        { "url": "http://肥猫.com", "name": "肥猫" },
         { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bbmimi/myserver/refs/heads/main/tvbox/tvboxjtb/api.json", "name": "家庭版" },
     ]
 }
